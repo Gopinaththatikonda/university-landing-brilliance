@@ -7,6 +7,12 @@ import campus from "@/assets/hero-campus.jpg";
 import library from "@/assets/hero-library.jpg";
 import students from "@/assets/hero-students.jpg";
 import lab from "@/assets/hero-lab.jpg";
+import convocation from "@/assets/hero-convocation.jpg";
+import classroom from "@/assets/hero-classroom.jpg";
+import cultural from "@/assets/hero-cultural.jpg";
+import sports from "@/assets/hero-sports.jpg";
+import hostel from "@/assets/hero-hostel.jpg";
+import placement from "@/assets/hero-placement.jpg";
 
 const slides = [
   {
@@ -32,6 +38,42 @@ const slides = [
     eyebrow: "Research that Matters",
     title: "Discovery in Every Lab, Every Day",
     subtitle: "State-of-the-art facilities driving innovation across disciplines.",
+  },
+  {
+    image: convocation,
+    eyebrow: "Convocation 2024",
+    title: "A Moment to Remember Forever",
+    subtitle: "Celebrating six decades of academic milestones and proud achievements.",
+  },
+  {
+    image: classroom,
+    eyebrow: "Learning Reimagined",
+    title: "Classrooms that Spark Curiosity",
+    subtitle: "Interactive lectures, mentorship and India's finest faculty under one roof.",
+  },
+  {
+    image: cultural,
+    eyebrow: "Culture & Festivals",
+    title: "Where Heritage Comes Alive",
+    subtitle: "From Bharatanatyam to band nights — a vibrant calendar all year round.",
+  },
+  {
+    image: sports,
+    eyebrow: "Spirit of the Game",
+    title: "Champions Made on These Grounds",
+    subtitle: "World-class cricket, athletics and indoor sports facilities for every student.",
+  },
+  {
+    image: hostel,
+    eyebrow: "A Home Away From Home",
+    title: "Living and Learning, Together",
+    subtitle: "Modern hostels, dining halls and 24×7 wellness — designed for student life.",
+  },
+  {
+    image: placement,
+    eyebrow: "Careers Launchpad",
+    title: "Recruited by India's Top Companies",
+    subtitle: "650+ recruiters. 97% placements. Average package of ₹12.4 LPA.",
   },
 ];
 
